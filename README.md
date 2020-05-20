@@ -1,1 +1,1 @@
-# Sparse-Bayesian-Network-Structure-Learning
+The code is for learning structures of sparse bayesian networks.
